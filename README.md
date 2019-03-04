@@ -1,2 +1,0 @@
-# elementaryca
-Created with CodeSandbox
